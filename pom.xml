@@ -68,7 +68,7 @@
 	
 	<build>
 		<plugins>
-			<plugin>
+			<!--<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.2</version>
@@ -89,7 +89,7 @@
 						</property>
 					</systemPropertyVariables>
 				</configuration>
-			</plugin>
+			</plugin>-->
 			<plugin>    
         		<artifactId>maven-compiler-plugin</artifactId>
 			<configuration>
